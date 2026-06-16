@@ -1,6 +1,6 @@
 #profile-title: UretkaVPN 🐛
 #profile-update-interval: 6
-#subscription-userinfo: expire=0 total=2048; used=1024
+#subscription-userinfo: expire=0; total=2048; used=1024
 #profile-web-page-url: https://pornhub.org
 #announce: ✨ Лучший впн ° UretkaVPN
 vless://a8160c2f-561b-4849-83d2-9900d1442c74@144.31.178.160:8443?mode=auto&path=%2F&security=reality&encryption=none&echfq=none&pbk=P-3bYKbPp5YeCefayC3S3PvLanBv_lp0p_5qfrjbM34&fp=firefox&allowinsecure=0&type=xhttp&sni=sun1-90.userapi.com&sid=fda2928a0a987b11#%F0%9F%87%AA%F0%9F%87%AA+%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F+%D1%83%D1%80%D0%B5%D1%82%D0%BA%D0%B0
